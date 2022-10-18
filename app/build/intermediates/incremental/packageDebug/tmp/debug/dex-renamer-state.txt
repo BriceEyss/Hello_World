@@ -1,0 +1,4 @@
+#Mon Oct 17 18:07:21 CEST 2022
+base.0=/Users/kiri/Documents/ESIEE/Cours&Exos Android/Android/Exercices/hello_world/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
